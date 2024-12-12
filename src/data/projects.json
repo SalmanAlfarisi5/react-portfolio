@@ -1,8 +1,8 @@
 [
   {
-    "title": "Project A",
+    "title": "Stock Price Prediction",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Trained and finetuned meachine learning and deep learning models for predicting upcoming stock price using previous days prices and sentiment analysis",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"

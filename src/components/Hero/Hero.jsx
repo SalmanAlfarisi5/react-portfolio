@@ -12,8 +12,13 @@ export const Hero = () => {
           A second-year NUS student pursuing a double major in Data Science & Analytics and Computer Science, 
           with a minor in Quantitative Finance. Passionate about A.I. and machine learning.
         </p>
-        <a href="mailto:salman26080@gmail.com" className={styles.contactBtn}>
-          Contact Me
+        <a 
+        href="https://drive.google.com/file/d/1qEg-3FFIdo--AUXZ8NULAraJIl5CK9Ol/view?usp=sharing" 
+        className={styles.contactBtn}
+        target="_blank"
+        rel="noopener noreferrer"
+        >
+          My Resume
         </a>
       </div>
       <img
