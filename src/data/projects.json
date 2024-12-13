@@ -1,26 +1,26 @@
 [
   {
     "title": "Stock Price Prediction",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/stock.png",
     "description": "Trained and finetuned meachine learning and deep learning models for predicting upcoming stock price using previous days prices and sentiment analysis",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["Python", "Tensorflow", "Numpy"],
+    "demo": "https://drive.google.com/drive/folders/1wFfy0xgAXFmx9-DUzRMoh5kWSmiq1Lnw",
+    "source": "https://github.com/SalmanAlfarisi5/Stock-Price-Prediction"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Software Engineer",
+    "imageSrc": "projects/software.png",
+    "description": "Developed a feature-rich web application with functionalities including user registration, login, password recovery, activity creation, and CRUD. ",
+    "skills": ["React", "PostgreSQL", "Express", "Github"],
+    "demo": "https://www.youtube.com/watch?v=UXQEMOiPA90&t=1s",
+    "source": "https://github.com/SalmanAlfarisi5/OpenJio-workspace"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Taylor Swift Song Analysis",
+    "imageSrc": "projects/visualization.jpeg",
+    "description": "summarize, and visualize a dataset of Taylor Swift's discography, analyzing trends in song themes, lyrics, and production elements across her albums. ",
+    "skills": ["R", "ggplot", "Github"],
+    "demo": "https://github.com/SalmanAlfarisi5/Taylor-Swift-Song-Prediction",
+    "source": "https://github.com/SalmanAlfarisi5/Taylor-Swift-Song-Prediction"
   }
 ]
