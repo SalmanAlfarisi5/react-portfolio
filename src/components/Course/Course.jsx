@@ -5,7 +5,7 @@ import courses from "../../data/courses.json";
 
 export const Course = () => {
   return (
-    <section className={styles.container} id="experience">
+    <section className={styles.container} id="course">
       <h2 className={styles.title}>Relevant Courses</h2>
       <div className={styles.content}>
       <ul className={styles.courses}>
