@@ -1,0 +1,67 @@
+[
+    {
+      "name": "DSA1101",
+      "description": "Introduction to Data Science"
+    },
+    {
+      "name": "CS1010S",
+      "description": "Programming Methodology"
+    },
+    {
+      "name": "MA2002",
+      "description": "Calculus"
+    },
+    {
+      "name": "MA2001",
+      "description": "Linear Algebra"
+    },
+    {
+      "name": "CS1231",
+      "description": "Discrete Math"
+    },
+    {
+      "name": "ST2131",
+      "description": "Probability"
+    },
+    {
+      "name": "ST2132",
+      "description": "Statistics"
+    },
+    {
+      "name": "CS2040",
+      "description": "Data Structure and Algorithm"
+    },
+    {
+      "name": "DSA2101",
+      "description": "Data Visualization"
+    },
+    {
+      "name": "IT1244",
+      "description": "introduction to AI/ML"
+    },
+    {
+      "name": "QF1100",
+      "description": "Introduction to Quantitative Finance"
+    },
+    {
+      "name": "CS2030",
+      "description": "Programming Methodology II" 
+    },
+    {
+      "name": "CS3244",
+      "description": "Machine Learning"
+    },
+    {
+      "name": "MA2104",
+      "description": "Multivariable Calculus"
+    },
+    {
+      "name": "ST3131",
+      "description": "Regression Analysis"
+    },
+    {
+      "name": "DSA2102",
+      "description": "Essential Data Analytics Tools: Numerical Computation"
+    }
+  ]
+  
