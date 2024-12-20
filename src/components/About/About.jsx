@@ -19,7 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Machine Learning Engineer</h3>
               <p>
-                I have experience in building and optimizing deep learning models.
+                Experienced in designing and fine-tuning cutting-edge deep learning models for maximum performance and efficiency.
               </p>
             </div>
           </li>
@@ -28,16 +28,16 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Data Scientist</h3>
               <p>
-                I have experience in doing data analysis and forecasting.
+                Skilled in uncovering insights through data analysis and delivering accurate forecasts to drive informed decision-making.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Engineer</h3>
+              <h3>Full-Stack Developer</h3>
               <p>
-                I have developed frontend for many websites and projects.
+              Proficient Full-Stack Developer with expertise in building seamless, end-to-end web applications by integrating responsive frontends with robust backend architectures.
               </p>
             </div>
           </li>
